@@ -9,6 +9,7 @@
 ![HTML](https://img.shields.io/badge/HTML-%23121011.svg?style=for-the-badge&logo=html5&logoColor=DD4B25)
 ![CSS](https://img.shields.io/badge/CSS-%23121011.svg?&style=for-the-badge&logo=css3&logoColor=1F5EA6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23121011.svg?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23121011.svg?style=for-the-badge&logo=typescript)
 
 ### <strong>Preprocessors</strong>
 
@@ -40,3 +41,5 @@
 ### <strong>Codewars</strong>
 
 [![CodeWars](https://www.codewars.com/users/Nikrybkin/badges/large)](https://www.codewars.com/users/Nikrybkin)
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikrybkin&layout=compact)](https://github.com/Nikrybkin/github-readme-stats) -->
